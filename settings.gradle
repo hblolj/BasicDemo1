@@ -1,0 +1,1 @@
+include ':app', ':servicebestpractice', ':multiplestylesrecyclerview', ':okhttppractice', ':piechart', ':commonadapter', ':rxjava2demo', ':retrofit2demo'

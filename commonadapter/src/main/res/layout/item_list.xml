@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:textSize="16sp"
+        android:singleLine="true"
+        android:id="@+id/tv_title"
+        android:text="Android适配器"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_below="@+id/tv_title"
+        android:text="Android万能适配器Android万能适配器Android万能适配器"
+        android:maxLines="2"
+        android:minLines="1"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/tv_content"
+        android:id="@+id/tv_time"
+        android:text="2016-3-3"
+        android:textSize="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:gravity="center"
+        android:textSize="12sp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_green_light"
+        android:layout_below="@+id/tv_content"
+        android:id="@+id/tv_phone"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:drawablePadding="5dp"
+        android:layout_alignParentRight="true"
+        android:drawableLeft="@drawable/icon_photo"
+        android:text="10086"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>

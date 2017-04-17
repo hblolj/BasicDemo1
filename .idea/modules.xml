@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicDemo.iml" filepath="$PROJECT_DIR$/BasicDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonadapter/commonadapter.iml" filepath="$PROJECT_DIR$/commonadapter/commonadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiplestylesrecyclerview/multiplestylesrecyclerview.iml" filepath="$PROJECT_DIR$/multiplestylesrecyclerview/multiplestylesrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttppractice/okhttppractice.iml" filepath="$PROJECT_DIR$/okhttppractice/okhttppractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piechart/piechart.iml" filepath="$PROJECT_DIR$/piechart/piechart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit2demo/retrofit2demo.iml" filepath="$PROJECT_DIR$/retrofit2demo/retrofit2demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" filepath="$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebestpractice/servicebestpractice.iml" filepath="$PROJECT_DIR$/servicebestpractice/servicebestpractice.iml" />
+    </modules>
+  </component>
+</project>
